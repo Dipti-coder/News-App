@@ -17,9 +17,9 @@ A News app for Android that brings the latest news articles to your fingertips. 
 
 ## Screenshots
 
-![Screenshot_20230803-124904 656](https://github.com/Dipti-coder/News-App/assets/83566655/e09145fe-ae8d-49fb-b7d4-ea5547a2aab9)
-![Screenshot_20230803-124915 658](https://github.com/Dipti-coder/News-App/assets/83566655/26201a0a-de01-46fb-98ef-e62e5975a304)
-![Screenshot_20230803-124955 657](https://github.com/Dipti-coder/News-App/assets/83566655/9286bcdc-ef75-4759-bcdb-5668c4de02bc)
+ <img src="https://github.com/Dipti-coder/News-App/assets/83566655/e09145fe-ae8d-49fb-b7d4-ea5547a2aab9" alt="Screenshot 1" width="300px" height="">
+ <img src="https://github.com/Dipti-coder/News-App/assets/83566655/26201a0a-de01-46fb-98ef-e62e5975a304" alt="Screenshot 2" width="300px" height="">
+ <img src="https://github.com/Dipti-coder/News-App/assets/83566655/9286bcdc-ef75-4759-bcdb-5668c4de02bc" alt="Screenshot 3" width="300px" height="">
 
 ## License
 
